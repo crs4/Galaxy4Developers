@@ -4,28 +4,27 @@ layout: default
 title: Frontpage
 ---
 
-## Welcome to our Galaxy training pages.
+## Welcome to the documentation pages of [Training Course on Galaxy for Bioinformatics tool developers](https://elixir-iib-training.github.io/website/2017/07/03/Galaxy-Cagliari.html)
 
 Here you can find a collection of training resources for Galaxy courses.
 
- * [Reads pre-processing, alignment and visualization](preprocessing.html)
- * [Exome Analysis](exome_analysis.html)
- * [Advanced Exome Analysis](exome_analysis_advanced.html)
+ * [Welcome and introduction](welcome.html)
+ * []()
+ * []()
 
-### Datasets
 
- * [Training material for the course "Exome analysis with GALAXY"](https://zenodo.org/record/61377)
 
 ### Authors and Contributors
 
- * Paolo Uva @puva
- * Gianmauro Cuccuru @gmauro
- * Massimiliano Orsini
- * Andrea Sbardellati
+ * Rossano Atzeni
+ * Gianmauro Cuccuru
+ * Marco Tangaro
+ * Paolo Uva
+
 
 ### Contributing
 
-If you've created a tutorial, slides or any other kind of material you think should be shared through this repository you can:
+If you've found mistakes or any other kind of material you think should be shared through this repository you can:
 
 1. Fork this repository.
 2. Add your content on the appropriate page.

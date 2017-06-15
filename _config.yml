@@ -2,24 +2,12 @@
 title: Galaxy Training
 email:
 description: Community Site
-baseurl: /
+baseurl:
 url:
 twitter_username:
 github_username:  gmauro
 pages_url: https://gmauro.github.io/Galaxy4Developers
 github_url: https://github.com/gmauro/Galaxy4Developers
-paginate:         5
-# Custom vars
-version:          2.1.0
+
 # Build settings
-
-markdown:         redcarpet
-highlighter:      pygments
-
-# Permalinks
-permalink:        pretty
-relative_permalinks: true
-
-
-paginate:         5
-
+markdown: kramdown

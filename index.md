@@ -9,8 +9,21 @@ title: Frontpage
 Here you can find a collection of training resources for Galaxy courses.
 
  * [Welcome and introduction](welcome.html)
- * []()
- * []()
+ * [Galaxy at Glance](lectures/glance.html)
+ * [Why Galaxy tools](lectures/wh.html)
+ * [Help Resources](lectures/help.html)
+ * [Get a basic Galaxy server up and running](lectures/bacic.html)
+    * [Hands-on](pratical/basic.html)
+ * [Everything in a box: Docker and Galaxy](lectures/docker.html)
+    * [Hands-on](pratical/docker.html)
+ * [Galaxy Tool XML File](lectures/xml_file.html)
+    * [Hands-on](pratical/xm_file.html)
+ * [Building Galaxy Tools](lectures/building.html)
+    * [Hands-on](pratical/building.html)
+ * [Galaxy Interactive Tour](lectures/interactive.html)
+    * [Hands-on](pratical/interactive.html)
+ * [BioBlend API](lectures/api.html)
+    * [Hands-on](pratical/api.html)
 
 
 

@@ -16,10 +16,10 @@ Here you can find a collection of training resources for Galaxy courses.
 
 ### Authors and Contributors
 
- * Rossano Atzeni
- * Gianmauro Cuccuru
- * Marco Tangaro
- * Paolo Uva
+ * [Rossano Atzeni](http://www.crs4.it/peopledetails/357/rossano-atzeni)
+ * [Gianmauro Cuccuru](http://www.crs4.it/peopledetails/195/gianmauro-cuccuru)
+ * [Marco Tangaro](https://elixir-iib-training.github.io/website/instructors/marco_tangaro.html)
+ * [Paolo Uva](http://www.crs4.it/peopledetails/183/paolo-uva)
 
 
 ### Contributing

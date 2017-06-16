@@ -41,21 +41,21 @@ title: Home
 
 Here you can find a collection of training resources for Galaxy courses.
 
- * [Welcome and introduction](welcome.html)
- * [Galaxy at Glance](lectures/glance.html)
- * [Why Galaxy tools](lectures/why.html)
- * [Help Resources](lectures/help.html)
- * [Get a basic Galaxy server up and running](lectures/bacic.html)
+ * [Welcome and introduction](01.welcome.html)
+ * [Galaxy at Glance](lectures/02.glance.html)
+ * [Why Galaxy tools](lectures/03.why.html)
+ * [Help Resources](lectures/04.help.html)
+ * [Get a basic Galaxy server up and running](lectures/05.bacic.html)
     * [Hands-on](pratical/basic.html)
- * [Everything in a box: Docker and Galaxy](lectures/docker.html)
+ * [Everything in a box: Docker and Galaxy](lectures/06.docker.html)
     * [Hands-on](pratical/docker.html)
- * [Galaxy Tool XML File](lectures/xml_file.html)
+ * [Galaxy Tool XML File](lectures/07.xml_file.html)
     * [Hands-on](pratical/xm_file.html)
- * [Building Galaxy Tools](lectures/building.html)
+ * [Building Galaxy Tools](lectures/08.building.html)
     * [Hands-on](pratical/building.html)
- * [Galaxy Interactive Tour](lectures/interactive.html)
+ * [Galaxy Interactive Tour](lectures/09.interactive.html)
     * [Hands-on](pratical/interactive.html)
- * [BioBlend API](lectures/api.html)
+ * [BioBlend API](lectures/10.api.html)
     * [Hands-on](pratical/api.html)
 
 

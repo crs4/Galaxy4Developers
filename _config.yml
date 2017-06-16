@@ -1,13 +1,21 @@
-# Site settings
-title: Galaxy Training
-email:
-description: Community Site
-baseurl:
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Training Course on Galaxy for Bioinformatics tool developers
+tagline:             Training Course on Galaxy for Bioinformatics tool developers
+description:         Galaxy4Developers
 url:
+baseurl:             ''
 twitter_username:
 github_username:  gmauro
 pages_url: https://gmauro.github.io/Galaxy4Developers
 github_url: https://github.com/gmauro/Galaxy4Developers
+
+# Custom vars
+version:             1.0.0
 
 # Build settings
 markdown: kramdown

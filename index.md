@@ -41,7 +41,7 @@ title: Home
 
 Here you can find a collection of training resources for Galaxy courses.
 
- * [Welcome and introduction](01.welcome.html)
+ * [Welcome and introduction](lectures/01.welcome.html)
  * [Galaxy at Glance](lectures/02.glance.html)
  * [Why Galaxy tools](lectures/03.why.html)
  * [Help Resources](lectures/04.help.html)

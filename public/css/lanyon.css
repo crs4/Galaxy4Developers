@@ -73,16 +73,16 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 36rem;
 }
-@media (min-width: 38em) {
-  .container {
-    max-width: 32rem;
-  }
-}
-@media (min-width: 56em) {
+@media (min-width: 30em) {
   .container {
     max-width: 38rem;
+  }
+}
+@media (min-width: 45em) {
+  .container {
+    max-width: 50rem;
   }
 }
 
@@ -309,6 +309,7 @@ a.sidebar-nav-item:focus {
 
 .page,
 .post {
+  text-align:justify;
   margin-bottom: 4em;
 }
 

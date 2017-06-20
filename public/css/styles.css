@@ -20,7 +20,7 @@ div#toc ul {
     background-color: whitesmoke;
     padding: 5px;
     border-radius: 5px;
-    max-width: 300px;
+    max-width: 380px;
     color: gray;
 }
 
@@ -30,7 +30,7 @@ div#toc ul li ul {
 }
 
 div#toc ul li ul li::before {
-    content: "–  ";
+    content: " ";
 }
 
 div#toc >ul::before {
@@ -40,7 +40,7 @@ div#toc >ul::before {
     text-align:center;
     margin-left:auto;
     margin-right:auto;
-    width:70px;
+    width: 320px;
     padding-top:20px;
     padding-bottom:20px;
     padding-left:10px;

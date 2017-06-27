@@ -3,61 +3,25 @@ layout: default
 title: Home
 ---
 
-<!--<div class="posts">-->
-  <!--{% for post in paginator.posts %}-->
-  <!--<div class="post">-->
-    <!--<h1 class="post-title">-->
-      <!--<a href="{{ site.baseurl }}/{{ post.url }}">-->
-        <!--{{ post.title }}-->
-      <!--</a>-->
-    <!--</h1>-->
+## Welcome to the documentation pages of             
+## [Training Course on Galaxy for Bioinformatics tool developers](https://elixir-iib-training.github.io/website/2017/07/03/Galaxy-Cagliari.html)
 
-    <!--<span class="post-date">{{ post.date | date_to_string }}</span>-->
+___
 
-    <!--{{ post.content }}-->
-  <!--</div>-->
-  <!--{% endfor %}-->
-<!--</div>-->
+#### Here you can find a collection of training resources for Galaxy courses.
 
-<!--<div class="pagination">-->
-  <!--{% if paginator.next_page %}-->
-    <!--<a class="pagination-item older" href="{{ site.baseurl }}/page{{paginator.next_page}}">Older</a>-->
-  <!--{% else %}-->
-    <!--<span class="pagination-item older">Older</span>-->
-  <!--{% endif %}-->
-  <!--{% if paginator.previous_page %}-->
-    <!--{% if paginator.page == 2 %}-->
-      <!--<a class="pagination-item newer" href="{{ site.baseurl }}/">Newer</a>-->
-    <!--{% else %}-->
-      <!--<a class="pagination-item newer" href="{{ site.baseurl }}/page{{paginator.previous_page}}">Newer</a>-->
-    <!--{% endif %}-->
-  <!--{% else %}-->
-    <!--<span class="pagination-item newer">Newer</span>-->
-  <!--{% endif %}-->
-<!--</div>-->
+{::nomarkdown}
 
-
-## Welcome to the documentation pages of [Training Course on Galaxy for Bioinformatics tool developers](https://elixir-iib-training.github.io/website/2017/07/03/Galaxy-Cagliari.html)
-
-Here you can find a collection of training resources for Galaxy courses.
-
- * [Welcome and introduction](lectures/01.welcome)
- * [Galaxy at Glance](lectures/02.glance)
- * [Why Galaxy tools](lectures/03.why)
- * [Help Resources](lectures/04.help)
- * [Get a basic Galaxy server up and running](lectures/05.bacic)
-    * [Hands-on](pratical/basic.html)
- * [Everything in a box: Docker and Galaxy](lectures/06.docker)
-    * [Hands-on](pratical/docker.html)
- * [Galaxy Tool XML File](lectures/07.xml_file)
-    * [Hands-on](pratical/xm_file.html)
- * [Building Galaxy Tools](lectures/08.building)
-    * [Hands-on](pratical/building.html)
- * [Galaxy Interactive Tour](lectures/09.interactive)
-    * [Hands-on](pratical/interactive)
- * [BioBlend API](lectures/10.api)
-    * [Hands-on](pratical/api.html)
-
+{% assign pages_list = site.pages | sort:"url" %}
+    {% for node in pages_list %}
+      {% if node.title != null %}
+        {% if node.layout == "page" %}
+          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{site.url}}{{ node.url }}">{{ node.title }}
+          <p class="note">{{node.summary}}</p></a>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+{:/}
 
 
 ### Authors and Contributors

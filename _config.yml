@@ -7,7 +7,7 @@ permalink:           pretty
 title:               Training Course on Galaxy for Bioinformatics tool developers
 tagline:             Training Course on Galaxy for Bioinformatics tool developers
 description:         Galaxy4Developers
-url:                 'https://gmauro.github.io/Galaxy4Developers'
+#url:                 'https://gmauro.github.io/Galaxy4Developers'
 baseurl:             ''
 twitter_username:
 github_username:  gmauro

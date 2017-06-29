@@ -3,12 +3,12 @@ layout: default
 title: Home
 ---
 
-## Welcome to the documentation pages of             
+## Welcome to the documentation site of             
 ## [Training Course on Galaxy for Bioinformatics tool developers](https://elixir-iib-training.github.io/website/2017/07/03/Galaxy-Cagliari.html)
 
 ___
 
-#### Here you can find a collection of training resources for Galaxy courses.
+#### Here you can find a tutorials collection to support the course..
 
 {::nomarkdown}
 

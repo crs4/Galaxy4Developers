@@ -15,7 +15,7 @@ pages_url: https://gmauro.github.io/Galaxy4Developers
 github_url: https://github.com/gmauro/Galaxy4Developers
 
 # Custom vars
-version:             1.0.0
+version:             17.07
 
 # Build settings
 markdown: kramdown

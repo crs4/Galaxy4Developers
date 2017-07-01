@@ -7,12 +7,12 @@ permalink:           pretty
 title:               Training Course on Galaxy for Bioinformatics tool developers
 tagline:             Training Course on Galaxy for Bioinformatics tool developers
 description:         Galaxy4Developers
-url:                 'https://gmauro.github.io/Galaxy4Developers'
+url:                 'https://crs4.github.io/Galaxy4Developers'
 baseurl:             ''
 twitter_username:
-github_username:  gmauro
-pages_url: https://gmauro.github.io/Galaxy4Developers
-github_url: https://github.com/gmauro/Galaxy4Developers
+github_username:  crs4
+pages_url: https://crs4.github.io/Galaxy4Developers
+github_url: https://github.com/crs4/Galaxy4Developers
 
 # Custom vars
 version:             17.07

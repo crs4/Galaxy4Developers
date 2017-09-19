@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/95944763.svg)](https://zenodo.org/badge/latestdoi/95944763)  
+
 Galaxy Training
 ===============
 

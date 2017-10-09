@@ -8,7 +8,7 @@ title:               Training Course on Galaxy for Bioinformatics tool developer
 tagline:             Training Course on Galaxy for Bioinformatics tool developers
 description:         Galaxy4Developers
 url:                 'https://crs4.github.io/Galaxy4Developers'
-baseurl:             'Galaxy4Developers'
+baseurl:             ''
 twitter_username:
 github_username:  crs4
 pages_url: https://crs4.github.io/Galaxy4Developers
